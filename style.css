@@ -52,7 +52,7 @@ body {
 .container {
   width: 70rem;
   background-color: var(--color-White);
-  margin: 10vh auto;
+  margin: 15vh auto;
   padding: 3.2rem;
   border-radius: var(--border-radius);
 
@@ -76,6 +76,7 @@ body {
 }
 .header-tertiary {
   color: var(--color-Rose);
+  font-weight: 700;
 }
 
 /* Reusable List */
@@ -154,7 +155,7 @@ body {
 .recipe__nutrition {
   display: flex;
   flex-direction: column;
-  gap: 2.4rem;
+  gap: 1.4rem;
 }
 
 .nutrition__table {
